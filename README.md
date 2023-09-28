@@ -5,4 +5,4 @@
 
 ### [CH2 : 신경망의 수학적 구성 요소](https://github.com/chaehyounng/DACOS_DeepLearning_Study/blob/main/Code/CH2.ipynb)
    
-### [CH3 : 케라스와 텐서플로 소개]()  
+### [CH3 : 케라스와 텐서플로 소개](https://github.com/chaehyounng/DACOS_DeepLearning_Study/blob/main/Code/CH3.ipynb)  
