@@ -8,3 +8,5 @@
 ### [CH3) 케라스와 텐서플로 소개](https://github.com/chaehyounng/DACOS_DeepLearning_Study/blob/main/Code/CH3.ipynb)  
 
 ### [CH4) 신경망 시작하기 :분류와 회귀](https://github.com/chaehyounng/DACOS_DeepLearning_Study/blob/main/Code/CH4.ipynb)
+
+### [CH5) 머신러닝의 기본 요소](https://github.com/chaehyounng/DACOS_DeepLearning_Study/blob/main/Code/CH5.ipynb)
