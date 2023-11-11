@@ -11,5 +11,5 @@
 
 ### [CH5) 머신러닝의 기본 요소](https://github.com/chaehyounng/DACOS_DeepLearning_Study/blob/main/Code/CH5.ipynb)
 
-## [CH7) 케라스 완전 정복](https://github.com/chaehyounng/DACOS_DeepLearning_Study/blob/main/Code/CH7.ipynb)
+### [CH7) 케라스 완전 정복](https://github.com/chaehyounng/DACOS_DeepLearning_Study/blob/main/Code/CH7.ipynb)
 
