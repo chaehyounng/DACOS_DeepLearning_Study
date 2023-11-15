@@ -13,3 +13,5 @@
 
 ### [CH7) 케라스 완전 정복](https://github.com/chaehyounng/DACOS_DeepLearning_Study/blob/main/Code/CH7.ipynb)
 
+### [CH8) 컴퓨터비전을 위한 딥러닝](https://github.com/chaehyounng/DACOS_DeepLearning_Study/blob/main/Code/CH8.ipynb)
+
