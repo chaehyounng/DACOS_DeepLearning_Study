@@ -15,3 +15,4 @@
 
 ### [CH8) 컴퓨터비전을 위한 딥러닝](https://github.com/chaehyounng/DACOS_DeepLearning_Study/blob/main/Code/CH8.ipynb)
 
+### [CH9) 컴퓨터비전을 위한 고급 딥러닝](https://github.com/chaehyounng/DACOS_DeepLearning_Study/blob/main/Code/CH9.ipynb)
